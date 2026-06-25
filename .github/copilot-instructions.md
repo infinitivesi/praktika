@@ -1,0 +1,9 @@
+- [x] Verify copilot instructions file exists.
+- [x] Clarify project requirements (Python console tracker, variant 28).
+- [x] Scaffold the project structure in the current workspace.
+- [x] Customize project with required tracker features.
+- [x] Install required extensions (none required).
+- [x] Compile the project (Python syntax check passed).
+- [x] Create and run task (skipped; not required for this simple CLI utility).
+- [x] Launch the project (smoke test run passed).
+- [x] Ensure documentation is complete (README and this file updated).
